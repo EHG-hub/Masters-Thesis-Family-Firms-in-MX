@@ -12,7 +12,11 @@ To run this notebook, you need the following libraries:
 ## Installation
 You can install the required dependencies using pip:
 
+## Data
+The notebook requires the following data file to run:
+data_Master_thesisFMBR2_2025-07-22_12-26.xlsx
+
 ## Usage
  Run each cell sequentially to perform data cleaning, co-occurrence matrix creation, and semantic network analysis.
- Find code at: https://github.com/EHG-hub/Masters-Thesis-Family-Firms-in-MX 
+ Find code and database in: https://github.com/EHG-hub/Masters-Thesis-Family-Firms-in-MX 
 
